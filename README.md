@@ -7,5 +7,6 @@ for all server owners to create unique and fully custom classes and skills.
 * Spigot Page      | https://www.spigotmc.org/resources/skillapi.4824/
 * Bukkit Page      | http://dev.bukkit.org/bukkit-plugins/skillapi/
 * Dynamic Editor   | http://people.rit.edu/sms6462/mc/sapi/
+* Dynamic Editor Mirror | http://skill.sumcraft.cn/
 * Examples Database | https://skillexamples.herokuapp.com/
 * Help Chat        | https://skillapi.herokuapp.com/
